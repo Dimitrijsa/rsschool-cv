@@ -1,6 +1,6 @@
-![My Social media Avatar](./Avatar.jpg)|
-#Dmitry Antoshkov|
-The RSSchool student|
---------------------|
+![My Social media Avatar](./Avatar.jpg)
+# Dmitry Antoshkov | sfffs
+------------------- | sgfsg
+The RSSchool student |  sgfsg
 
 
