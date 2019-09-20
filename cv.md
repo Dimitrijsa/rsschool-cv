@@ -1,11 +1,13 @@
 ![My Social media Avatar](./Avatar.jpg)
- 
- # Dmitry Antoshkov
-    The RSSchool student
+
+# Dmitry Antoshkov
+
+The RSSchool student
 
 ******
 
 ## You can get in touch with me by:
+
 1. E-mail
     * [Gmail](mailto:dimitrijsa@gmail.com)
     * [Hotmail](mailto:dimitrijsa@hotmail.com)
@@ -15,4 +17,3 @@
 3. Social Media
     * [Vk](https://vk.com/dimitrijsa)
     * [FB](https://www.facebook.com/dimitrijsa)
-    
