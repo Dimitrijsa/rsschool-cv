@@ -1,9 +1,9 @@
 ![My Social media Avatar](./Avatar.jpg)
  # Dmitry Antoshkov
+
  ##### The RSSchool student
 
-
-
+******
 
 ## You can get in touch with me by:
 1. E-mail
