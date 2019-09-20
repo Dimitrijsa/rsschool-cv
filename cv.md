@@ -1,9 +1,11 @@
-![My Social media Avatar](./Avatar.jpg) 
+![My Social media Avatar](./Avatar.jpg)
 
+# Dmitry Antoshkov
 The RSSchool student
-Dmitry Antoshkov
 
 ******
+
+
 
 ## You can get in touch with me by:
 
