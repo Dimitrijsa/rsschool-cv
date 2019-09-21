@@ -77,6 +77,8 @@ body {
 ```
 Check the rest on [Git](https://github.com/Dimitrijsa/BlurEffect-Page/tree/gh-pages)!
 
+And [here](https://dimitrijsa.github.io/BlurEffect-Page/) you can check my project.
+
 
 --------
 ## English language abilities    
