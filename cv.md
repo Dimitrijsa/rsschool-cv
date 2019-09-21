@@ -1,6 +1,7 @@
-![My Social media Avatar](./Avatar.jpg) 
+![My Social media Avatar](./Avatar.jpg)
 
 # Dmitry Antoshkov
+<<<<<<< HEAD
 
 ### The RSSchool student
 
