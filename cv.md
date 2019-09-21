@@ -98,3 +98,5 @@ I have mostly been studying English on my own, but I also took a course in Lingu
     * [FB](https://www.facebook.com/dimitrijsa)
 4. GitHub
     * [Dimitrijsa](https://github.com/Dimitrijsa)
+5. Also check my hobby in Instagram
+    * [Dimitrijsa](https://www.instagram.com/dimitrijsa/?hl=ru)
