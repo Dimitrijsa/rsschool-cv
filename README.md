@@ -1,2 +1,1 @@
-# rsschool-cv
-repository for rolling scopes 
+https://dimitrijsa.github.io/rsschool-cv/cv
