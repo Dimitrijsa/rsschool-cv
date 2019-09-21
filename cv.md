@@ -13,7 +13,8 @@ I've always been interested in programming and web app creation, and I enjoy dis
 ## Education and job experience
 Currently I'm a 5th year student studying to become an engineer, and also work as a technician-technologist at a vehicle-building plant.
 
-As for coding, I've been studying **HTML** **CSS** and a little bit of **JS** mostly by online tutorials from *ITVDN*, *TravesyMedia*, *DesignCourse* and *Online Tutorials*.
+### Skills 
+As for coding, I've been studying **HTML** **CSS** and a little bit of **JS** mostly by online tutorials from *ITVDN*, *TravesyMedia*, *DesignCourse* and *Online Tutorials*... So I perfectly mastered the ```Hello World!``` phrase :sparkles: .
 
 --------
 ## English language abilities    
