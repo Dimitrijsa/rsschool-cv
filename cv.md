@@ -16,6 +16,7 @@ Currently I'm a 5th year student studying to become an engineer, and also work a
 
 ### Skills 
 As for coding, I've been studying **HTML** **CSS** and a little bit of **JS** mostly by online tutorials from *ITVDN*, *TravesyMedia*, *DesignCourse* and *Online Tutorials*... So I perfectly mastered the ```Hello World!``` phrase (joke).
+Here are 
 
 
 --------
@@ -34,3 +35,5 @@ I have mostly been studying English on my own, but I also took a course in Lingu
 3. Social Media
     * [Vk](https://vk.com/dimitrijsa)
     * [FB](https://www.facebook.com/dimitrijsa)
+4. GitHub
+    * [Dimitrijsa](https://github.com/Dimitrijsa)
