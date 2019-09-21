@@ -92,7 +92,7 @@ I have mostly been studying English on my own, but I also took a course in Lingu
     * [Hotmail](mailto:dimitrijsa@hotmail.com)
     * [MailRu](mailto:dimitrijsa@mail.ru)
 2. Phone
-    * [Life](tel:+375(25)709-**-26)
+    * [Life](tel:+37525709**26)
 3. Social Media
     * [Vk](https://vk.com/dimitrijsa)
     * [FB](https://www.facebook.com/dimitrijsa)
