@@ -1,4 +1,15 @@
 body {
     max-width: 1024px;
-    margin: 0 50%;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.2pt;
+    line-height: 150%;
+}
+
+hr{
+    border: 1px solid lightgrey;
+}
+
+.bold-hr{
+    border: 2px solid lightgrey;
 }
