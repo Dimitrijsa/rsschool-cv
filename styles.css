@@ -2,14 +2,30 @@ body {
     max-width: 1024px;
     margin: 0 auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
     letter-spacing: 0.2pt;
     line-height: 150%;
 }
 
 hr{
-    border: 1px solid lightgrey;
+    border: 1px solid rgb(244, 248, 250);
 }
 
 .bold-hr{
-    border: 2px solid lightgrey;
+    border: 2px solid rgb(238, 242, 245);
 }
+
+code{
+    background-color: rgb(244, 248, 250);
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}
+
+.code-insert{
+    background-color: rgb(244, 248, 250);
+    border-radius: 3px;
+    font-family: courier, monospace;
+    line-height: 110%;
+    padding: 10px 3px;
+ }
